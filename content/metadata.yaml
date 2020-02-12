@@ -14,28 +14,22 @@ authors:
     orcid: 0000-0003-3200-7533
     twitter: kevbonham
     email: kbonham@wellesley.edu
-    affiliations:
-      - Department of Biological Sciences, Wellesley College, Wellesley, MA, 02481, USA
-    funders: Grant XXXXXXXX
+    affiliations: Department of Biological Sciences, Wellesley College, Wellesley, MA, 02481, USA
   -
     name: Muriel M.K. Bruchhage
     initials: MMKB
     orcid: 0000-0001-9637-0951
-    affiliations:
-      - Advanced Baby Imaging Lab, Hasbro Children’s Hospital, Rhode Island Hospital, Providence, RI, 02903, USA
+    affiliations: Advanced Baby Imaging Lab, Hasbro Children’s Hospital, Rhode Island Hospital, Providence, RI, 02903, USA
   -
     name: Sophie Rowland
     initials: SR
-    affiliations:
-      - Department of Biological Sciences, Wellesley College, Wellesley, MA, 02481, USA
+    affiliations: Department of Biological Sciences, Wellesley College, Wellesley, MA, 02481, USA
   -
     name: Lexie Volpe
-    affiliations:
-      - Advanced Baby Imaging Lab, Hasbro Children’s Hospital, Rhode Island Hospital, Providence, RI, 02903, USA
+    affiliations: Advanced Baby Imaging Lab, Hasbro Children’s Hospital, Rhode Island Hospital, Providence, RI, 02903, USA
   -
     name: Kellyn Dyer
-    affiliations:
-      - Advanced Baby Imaging Lab, Hasbro Children’s Hospital, Rhode Island Hospital, Providence, RI, 02903, USA
+    affiliations: Advanced Baby Imaging Lab, Hasbro Children’s Hospital, Rhode Island Hospital, Providence, RI, 02903, USA
   -
     name: RESONANCE Consortium
   -
@@ -46,8 +40,7 @@ authors:
   -
     name: Curtis Huttenhower
     orcid: 0000-0002-1110-0096
-    affiliations:
-      - Department of Biostatistics, Harvard T. H. Chan School of Public Health, Boston, MA, USA
+    affiliations: Department of Biostatistics, Harvard T. H. Chan School of Public Health, Boston, MA, USA
   -
     name: Sean C.L. Deoni
     affiliations:
@@ -55,9 +48,12 @@ authors:
       - Department of Pediatrics, Warren Alpert Medical School at Brown University, Providence, RI, 02912, USA
       - Department of Radiology, Warren Alpert Medical School at Brown University, Providence, RI, 02912, USA
       - Maternal, Newborn, and Child Health Discovery & Tools, Bill & Melinda Gates Foundation; Seattle WA, USA
+    funders:
+      - NIH UH3 ODD023313
+      - NIH R01 MH087510
   -
     name: Vanja Klepac-Ceraj
+    email: vklepacc@wellesley.edu
     initials: VKC
     orcid: 0000-0001-5387-5706
-    affiliations:
-      - Department of Biological Sciences, Wellesley College, Wellesley, MA, 02481, USA
+    affiliations: Department of Biological Sciences, Wellesley College, Wellesley, MA, 02481, USA
