@@ -1,27 +1,63 @@
 ---
-title: "Manuscript Title"
+title: "Gut microbial genes are associated with neurocognition and brain development in healthy children"
 keywords:
-  - markdown
-  - publishing
-  - manubot
+  - microbiome
+  - microbiology
+  - neuroscience
+  - children
 lang: en-US
 authors:
   -
-    github: johndoe
-    name: John Doe
-    initials: JD
-    orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    email: john.doe@something.com
+    github: kescobo
+    name: Kevin S. Bonham
+    initials: KSB
+    orcid: 0000-0003-3200-7533
+    twitter: kevbonham
+    email: kbonham@wellesley.edu
     affiliations:
-      - Department of Something, University of Whatever
+      - Department of Biological Sciences, Wellesley College, Wellesley, MA, 02481, USA
     funders: Grant XXXXXXXX
   -
-    github: janeroe
-    name: Jane Roe
-    initials: JR
-    orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
+    name: Muriel M.K. Bruchhage
+    initials: MMKB
+    orcid: 0000-0001-9637-0951
     affiliations:
-      - Department of Something, University of Whatever
-      - Department of Whatever, University of Something
+      - Advanced Baby Imaging Lab, Hasbro Children’s Hospital, Rhode Island Hospital, Providence, RI, 02903, USA
+  -
+    name: Sophie Rowland
+    initials: SR
+    affiliations:
+      - Department of Biological Sciences, Wellesley College, Wellesley, MA, 02481, USA
+  -
+    name: Lexie Volpe
+    affiliations:
+      - Advanced Baby Imaging Lab, Hasbro Children’s Hospital, Rhode Island Hospital, Providence, RI, 02903, USA
+  -
+    name: Kellyn Dyer
+    affiliations:
+      - Advanced Baby Imaging Lab, Hasbro Children’s Hospital, Rhode Island Hospital, Providence, RI, 02903, USA
+  -
+    name: RESONANCE Consortium
+  -
+    name: Viren D'Sa
+    affiliations:
+      - Advanced Baby Imaging Lab, Hasbro Children’s Hospital, Rhode Island Hospital, Providence, RI, 02903, USA
+      - Department of Pediatrics, Warren Alpert Medical School at Brown University, Providence, RI, 02912, USA
+  -
+    name: Curtis Huttenhower
+    orcid: 0000-0002-1110-0096
+    affiliations:
+      - Department of Biostatistics, Harvard T. H. Chan School of Public Health, Boston, MA, USA
+  -
+    name: Sean C.L. Deoni
+    affiliations:
+      - Advanced Baby Imaging Lab, Hasbro Children’s Hospital, Rhode Island Hospital, Providence, RI, 02903, USA
+      - Department of Pediatrics, Warren Alpert Medical School at Brown University, Providence, RI, 02912, USA
+      - Department of Radiology, Warren Alpert Medical School at Brown University, Providence, RI, 02912, USA
+      - Maternal, Newborn, and Child Health Discovery & Tools, Bill & Melinda Gates Foundation; Seattle WA, USA
+  -
+    name: Vanja Klepac-Ceraj
+    initials: VKC
+    orcid: 0000-0001-5387-5706
+    affiliations:
+      - Department of Biological Sciences, Wellesley College, Wellesley, MA, 02481, USA
