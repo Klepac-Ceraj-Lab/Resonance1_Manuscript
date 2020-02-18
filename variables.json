@@ -1,18 +1,27 @@
 {
   "pandoc": {
-    "title": "Manuscript Title",
+    "title": "Gut microbial genes are associated with neurocognition and brain development in healthy children",
     "keywords": [
-      "markdown",
-      "publishing",
-      "manubot"
+      "microbiome",
+      "microbiology",
+      "neuroscience",
+      "children"
     ],
     "lang": "en-US",
-    "date-meta": "2020-02-12",
+    "date-meta": "2020-02-18",
     "author-meta": [
-      "John Doe",
-      "Jane Roe"
+      "Kevin S. Bonham",
+      "Muriel M.K. Bruchhage",
+      "Sophie Rowland",
+      "Lexie Volpe",
+      "Kellyn Dyer",
+      "RESONANCE Consortium",
+      "Viren D'Sa",
+      "Curtis Huttenhower",
+      "Sean C.L. Deoni",
+      "Vanja Klepac-Ceraj"
     ],
-    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Manuscript Title\" />\n<meta name=\"citation_title\" content=\"Manuscript Title\" />\n<meta property=\"og:title\" content=\"Manuscript Title\" />\n<meta property=\"twitter:title\" content=\"Manuscript Title\" />\n<meta name=\"dc.date\" content=\"2020-02-12\" />\n<meta name=\"citation_publication_date\" content=\"2020-02-12\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"John Doe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<meta name=\"twitter:creator\" content=\"@johndoe\" />\n<meta name=\"citation_author\" content=\"Jane Roe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_institution\" content=\"Department of Whatever, University of Something\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<link rel=\"canonical\" href=\"https://Klepac-Ceraj-Lab.github.io/resonance1_manuscript/\" />\n<meta property=\"og:url\" content=\"https://Klepac-Ceraj-Lab.github.io/resonance1_manuscript/\" />\n<meta property=\"twitter:url\" content=\"https://Klepac-Ceraj-Lab.github.io/resonance1_manuscript/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://Klepac-Ceraj-Lab.github.io/resonance1_manuscript/\" />\n<meta name=\"citation_pdf_url\" content=\"https://Klepac-Ceraj-Lab.github.io/resonance1_manuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://Klepac-Ceraj-Lab.github.io/resonance1_manuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://Klepac-Ceraj-Lab.github.io/resonance1_manuscript/v/02127deb8ddcce8324417373296a1bb1728b1d80/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://Klepac-Ceraj-Lab.github.io/resonance1_manuscript/v/02127deb8ddcce8324417373296a1bb1728b1d80/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://Klepac-Ceraj-Lab.github.io/resonance1_manuscript/v/02127deb8ddcce8324417373296a1bb1728b1d80/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
+    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Gut microbial genes are associated with neurocognition and brain development in healthy children\" />\n<meta name=\"citation_title\" content=\"Gut microbial genes are associated with neurocognition and brain development in healthy children\" />\n<meta property=\"og:title\" content=\"Gut microbial genes are associated with neurocognition and brain development in healthy children\" />\n<meta property=\"twitter:title\" content=\"Gut microbial genes are associated with neurocognition and brain development in healthy children\" />\n<meta name=\"dc.date\" content=\"2020-02-18\" />\n<meta name=\"citation_publication_date\" content=\"2020-02-18\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Kevin S. Bonham\" />\n<meta name=\"citation_author_institution\" content=\"Department of Biological Sciences, Wellesley College, Wellesley, MA, 02481, USA\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-3200-7533\" />\n<meta name=\"twitter:creator\" content=\"@kevbonham\" />\n<meta name=\"citation_author\" content=\"Muriel M.K. Bruchhage\" />\n<meta name=\"citation_author_institution\" content=\"Advanced Baby Imaging Lab, Hasbro Children’s Hospital, Rhode Island Hospital, Providence, RI, 02903, USA\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-9637-0951\" />\n<meta name=\"citation_author\" content=\"Sophie Rowland\" />\n<meta name=\"citation_author_institution\" content=\"Department of Biological Sciences, Wellesley College, Wellesley, MA, 02481, USA\" />\n<meta name=\"citation_author\" content=\"Lexie Volpe\" />\n<meta name=\"citation_author_institution\" content=\"Advanced Baby Imaging Lab, Hasbro Children’s Hospital, Rhode Island Hospital, Providence, RI, 02903, USA\" />\n<meta name=\"citation_author\" content=\"Kellyn Dyer\" />\n<meta name=\"citation_author_institution\" content=\"Advanced Baby Imaging Lab, Hasbro Children’s Hospital, Rhode Island Hospital, Providence, RI, 02903, USA\" />\n<meta name=\"citation_author\" content=\"RESONANCE Consortium\" />\n<meta name=\"citation_author\" content=\"Viren D&#39;Sa\" />\n<meta name=\"citation_author_institution\" content=\"Advanced Baby Imaging Lab, Hasbro Children’s Hospital, Rhode Island Hospital, Providence, RI, 02903, USA\" />\n<meta name=\"citation_author_institution\" content=\"Department of Pediatrics, Warren Alpert Medical School at Brown University, Providence, RI, 02912, USA\" />\n<meta name=\"citation_author\" content=\"Curtis Huttenhower\" />\n<meta name=\"citation_author_institution\" content=\"Department of Biostatistics, Harvard T. H. Chan School of Public Health, Boston, MA, USA\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-1110-0096\" />\n<meta name=\"citation_author\" content=\"Sean C.L. Deoni\" />\n<meta name=\"citation_author_institution\" content=\"Advanced Baby Imaging Lab, Hasbro Children’s Hospital, Rhode Island Hospital, Providence, RI, 02903, USA\" />\n<meta name=\"citation_author_institution\" content=\"Department of Pediatrics, Warren Alpert Medical School at Brown University, Providence, RI, 02912, USA\" />\n<meta name=\"citation_author_institution\" content=\"Department of Radiology, Warren Alpert Medical School at Brown University, Providence, RI, 02912, USA\" />\n<meta name=\"citation_author_institution\" content=\"Maternal, Newborn, and Child Health Discovery &amp; Tools, Bill &amp; Melinda Gates Foundation; Seattle WA, USA\" />\n<meta name=\"citation_author\" content=\"Vanja Klepac-Ceraj\" />\n<meta name=\"citation_author_institution\" content=\"Department of Biological Sciences, Wellesley College, Wellesley, MA, 02481, USA\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-5387-5706\" />\n<link rel=\"canonical\" href=\"https://Klepac-Ceraj-Lab.github.io/resonance1_manuscript/\" />\n<meta property=\"og:url\" content=\"https://Klepac-Ceraj-Lab.github.io/resonance1_manuscript/\" />\n<meta property=\"twitter:url\" content=\"https://Klepac-Ceraj-Lab.github.io/resonance1_manuscript/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://Klepac-Ceraj-Lab.github.io/resonance1_manuscript/\" />\n<meta name=\"citation_pdf_url\" content=\"https://Klepac-Ceraj-Lab.github.io/resonance1_manuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://Klepac-Ceraj-Lab.github.io/resonance1_manuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://Klepac-Ceraj-Lab.github.io/resonance1_manuscript/v/429cfc91ec1db4ebbf33d79dd9d7c67e80a66224/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://Klepac-Ceraj-Lab.github.io/resonance1_manuscript/v/429cfc91ec1db4ebbf33d79dd9d7c67e80a66224/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://Klepac-Ceraj-Lab.github.io/resonance1_manuscript/v/429cfc91ec1db4ebbf33d79dd9d7c67e80a66224/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
     "bibliography": [
       "content/manual-references.json"
     ],
@@ -22,47 +31,142 @@
     "manubot-clear-requests-cache": false
   },
   "manubot": {
-    "date": "February 12, 2020",
+    "date": "February 18, 2020",
     "authors": [
       {
-        "github": "johndoe",
-        "name": "John Doe",
-        "initials": "JD",
-        "orcid": "XXXX-XXXX-XXXX-XXXX",
-        "twitter": "johndoe",
-        "email": "john.doe@something.com",
+        "github": "kescobo",
+        "name": "Kevin S. Bonham",
+        "initials": "KSB",
+        "orcid": "0000-0003-3200-7533",
+        "twitter": "kevbonham",
+        "email": "kbonham@wellesley.edu",
         "affiliations": [
-          "Department of Something, University of Whatever"
+          "Department of Biological Sciences, Wellesley College, Wellesley, MA, 02481, USA"
         ],
-        "funders": "Grant XXXXXXXX",
         "affiliation_numbers": [
           1
         ]
       },
       {
-        "github": "janeroe",
-        "name": "Jane Roe",
-        "initials": "JR",
-        "orcid": "XXXX-XXXX-XXXX-XXXX",
-        "email": "jane.roe@whatever.edu",
+        "name": "Muriel M.K. Bruchhage",
+        "initials": "MMKB",
+        "orcid": "0000-0001-9637-0951",
         "affiliations": [
-          "Department of Something, University of Whatever",
-          "Department of Whatever, University of Something"
+          "Advanced Baby Imaging Lab, Hasbro Children’s Hospital, Rhode Island Hospital, Providence, RI, 02903, USA"
         ],
         "affiliation_numbers": [
-          1,
           2
+        ]
+      },
+      {
+        "name": "Sophie Rowland",
+        "initials": "SR",
+        "affiliations": [
+          "Department of Biological Sciences, Wellesley College, Wellesley, MA, 02481, USA"
+        ],
+        "affiliation_numbers": [
+          1
+        ]
+      },
+      {
+        "name": "Lexie Volpe",
+        "affiliations": [
+          "Advanced Baby Imaging Lab, Hasbro Children’s Hospital, Rhode Island Hospital, Providence, RI, 02903, USA"
+        ],
+        "affiliation_numbers": [
+          2
+        ]
+      },
+      {
+        "name": "Kellyn Dyer",
+        "affiliations": [
+          "Advanced Baby Imaging Lab, Hasbro Children’s Hospital, Rhode Island Hospital, Providence, RI, 02903, USA"
+        ],
+        "affiliation_numbers": [
+          2
+        ]
+      },
+      {
+        "name": "RESONANCE Consortium",
+        "affiliation_numbers": []
+      },
+      {
+        "name": "Viren D'Sa",
+        "affiliations": [
+          "Advanced Baby Imaging Lab, Hasbro Children’s Hospital, Rhode Island Hospital, Providence, RI, 02903, USA",
+          "Department of Pediatrics, Warren Alpert Medical School at Brown University, Providence, RI, 02912, USA"
+        ],
+        "affiliation_numbers": [
+          2,
+          3
+        ]
+      },
+      {
+        "name": "Curtis Huttenhower",
+        "orcid": "0000-0002-1110-0096",
+        "affiliations": [
+          "Department of Biostatistics, Harvard T. H. Chan School of Public Health, Boston, MA, USA"
+        ],
+        "affiliation_numbers": [
+          4
+        ]
+      },
+      {
+        "name": "Sean C.L. Deoni",
+        "affiliations": [
+          "Advanced Baby Imaging Lab, Hasbro Children’s Hospital, Rhode Island Hospital, Providence, RI, 02903, USA",
+          "Department of Pediatrics, Warren Alpert Medical School at Brown University, Providence, RI, 02912, USA",
+          "Department of Radiology, Warren Alpert Medical School at Brown University, Providence, RI, 02912, USA",
+          "Maternal, Newborn, and Child Health Discovery & Tools, Bill & Melinda Gates Foundation; Seattle WA, USA"
+        ],
+        "funders": [
+          "NIH UH3 ODD023313",
+          "NIH R01 MH087510"
+        ],
+        "affiliation_numbers": [
+          2,
+          3,
+          5,
+          6
+        ]
+      },
+      {
+        "name": "Vanja Klepac-Ceraj",
+        "email": "vklepacc@wellesley.edu",
+        "initials": "VKC",
+        "orcid": "0000-0001-5387-5706",
+        "affiliations": [
+          "Department of Biological Sciences, Wellesley College, Wellesley, MA, 02481, USA"
+        ],
+        "affiliation_numbers": [
+          1
         ]
       }
     ],
     "affiliations": [
       {
-        "affiliation": "Department of Something, University of Whatever",
+        "affiliation": "Department of Biological Sciences, Wellesley College, Wellesley, MA, 02481, USA",
         "affiliation_number": 1
       },
       {
-        "affiliation": "Department of Whatever, University of Something",
+        "affiliation": "Advanced Baby Imaging Lab, Hasbro Children’s Hospital, Rhode Island Hospital, Providence, RI, 02903, USA",
         "affiliation_number": 2
+      },
+      {
+        "affiliation": "Department of Pediatrics, Warren Alpert Medical School at Brown University, Providence, RI, 02912, USA",
+        "affiliation_number": 3
+      },
+      {
+        "affiliation": "Department of Biostatistics, Harvard T. H. Chan School of Public Health, Boston, MA, USA",
+        "affiliation_number": 4
+      },
+      {
+        "affiliation": "Department of Radiology, Warren Alpert Medical School at Brown University, Providence, RI, 02912, USA",
+        "affiliation_number": 5
+      },
+      {
+        "affiliation": "Maternal, Newborn, and Child Health Discovery & Tools, Bill & Melinda Gates Foundation; Seattle WA, USA",
+        "affiliation_number": 6
       }
     ],
     "ci_source": {
@@ -70,19 +174,19 @@
       "repo_slug": "Klepac-Ceraj-Lab/resonance1_manuscript",
       "repo_owner": "Klepac-Ceraj-Lab",
       "repo_name": "resonance1_manuscript",
-      "commit": "02127deb8ddcce8324417373296a1bb1728b1d80",
-      "triggering_commit": "02127deb8ddcce8324417373296a1bb1728b1d80",
-      "build_url": "https://github.com/Klepac-Ceraj-Lab/resonance1_manuscript/commit/02127deb8ddcce8324417373296a1bb1728b1d80/checks",
+      "commit": "429cfc91ec1db4ebbf33d79dd9d7c67e80a66224",
+      "triggering_commit": "429cfc91ec1db4ebbf33d79dd9d7c67e80a66224",
+      "build_url": "https://github.com/Klepac-Ceraj-Lab/resonance1_manuscript/commit/429cfc91ec1db4ebbf33d79dd9d7c67e80a66224/checks",
       "job_url": "https://github.com/Klepac-Ceraj-Lab/resonance1_manuscript/runs/run2"
     },
     "html_url": "https://Klepac-Ceraj-Lab.github.io/resonance1_manuscript/",
     "pdf_url": "https://Klepac-Ceraj-Lab.github.io/resonance1_manuscript/manuscript.pdf",
-    "html_url_versioned": "https://Klepac-Ceraj-Lab.github.io/resonance1_manuscript/v/02127deb8ddcce8324417373296a1bb1728b1d80/",
-    "pdf_url_versioned": "https://Klepac-Ceraj-Lab.github.io/resonance1_manuscript/v/02127deb8ddcce8324417373296a1bb1728b1d80/manuscript.pdf",
+    "html_url_versioned": "https://Klepac-Ceraj-Lab.github.io/resonance1_manuscript/v/429cfc91ec1db4ebbf33d79dd9d7c67e80a66224/",
+    "pdf_url_versioned": "https://Klepac-Ceraj-Lab.github.io/resonance1_manuscript/v/429cfc91ec1db4ebbf33d79dd9d7c67e80a66224/manuscript.pdf",
     "manubot_version": "0.3.1",
     "rootstock_commit": "40b0e5bf228e95a75c23252593d5ab4802bf89ac",
     "manuscript_stats": {
-      "word_count": 243
+      "word_count": 4429
     }
   }
 }
